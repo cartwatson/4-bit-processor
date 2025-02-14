@@ -1,9 +1,0 @@
-0.7
-2020.2
-Jun 10 2021
-19:45:28
-/home/student/Desktop/processerBackup/processor/processor.sim/sim_1/behav/xsim/glbl.v,1639596055,verilog,,,,glbl,,,,,,,,
-/home/student/Desktop/processerBackup/processor/processor.srcs/sim_1/new/testbench.v,1639596055,verilog,,,,testbench,,,,,,,,
-/home/student/Desktop/processerBackup/processor/processor.srcs/sources_1/imports/Downloads/ROM.v,1639597776,verilog,,/home/student/Desktop/processerBackup/processor/processor.srcs/sources_1/new/top.v,,ROM,,,,,,,,
-/home/student/Desktop/processerBackup/processor/processor.srcs/sources_1/new/top.v,1639598192,verilog,,/home/student/Desktop/processerBackup/processor/processor.srcs/sim_1/new/testbench.v,,top,,,,,,,,
-/home/student/Desktop/processor/processor.srcs/sources_1/imports/new/clockDivider.v,1631813343,verilog,,/home/student/Desktop/processor/processor.srcs/sources_1/new/top.v,,clockDivider,,,,,,,,
